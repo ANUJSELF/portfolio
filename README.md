@@ -66,7 +66,7 @@ To set up and run the project locally, follow these steps:
    git push origin main
 
 
-2. **Visit the GitHub repository settings and enable GitHub Pages.**
+3. **Visit the GitHub repository settings and enable GitHub Pages.**
 
 ### Firebase Hosting
 
