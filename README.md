@@ -61,9 +61,9 @@ To set up and run the project locally, follow these steps:
 
 1. **Push the code to GitHub**  
    
-   git add .
-   git commit -m "Initial commit"
-   git push origin main
+- git add .
+- git commit -m "Initial commit"
+- git push origin main
 
 
 3. **Visit the GitHub repository settings and enable GitHub Pages.**
@@ -86,6 +86,6 @@ To set up and run the project locally, follow these steps:
 
 ### For any inquiries or collaborations, feel free to connect with me on:
 
-Portfolio: https://anuj-portfolio-5018a.web.app/
-GitHub: https://github.com/ANUJSELF
-Email: anujtiwari.kr@gmail.com
+- Portfolio: https://anuj-portfolio-5018a.web.app/
+- GitHub: https://github.com/ANUJSELF
+- Email: anujtiwari.kr@gmail.com
